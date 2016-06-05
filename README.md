@@ -1,2 +1,2 @@
-# convenience_java
+# Convenience - Java
 Time saving code snippets for common tasks
